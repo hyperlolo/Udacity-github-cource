@@ -1,0 +1,38 @@
+6. Reflect:
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It made me look at the details between the two files since they were so similar.
+------------------------------------------------------------------------
+8. Reflect:
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If I were to do something wrong in the code in the future which caused my code to break and I was unable to find the problem, I could use version control to revert any changes I made that caused my code to not work as intended. 
+------------------------------------------------------------------------
+15. Reflect:
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+I believe that the pros are that you choose the best time according to yourself to save a version the con is your best time may be either too small or too big for someone  else.
+------------------------------------------------------------------------
+18. Reflect:
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is designed for coding so I believe that might be why they say multiple files. While Google Docs isn't.
+------------------------------------------------------------------------
+22. Reflect:
+ How can you use the commands git log and git diff to view the history of files?
+
+I can use git log and git diff to view the history of files by seeing exactly what changes were made between two seperate verisons of a file using gits color code system and the + - system.
+------------------------------------------------------------------------
+26. Reflect:
+How might using version control make you more confident to make changes that could break something?
+
+It gives you security that you can fail fast and go back fast and redo whatever it is that messed up.
+------------------------------------------------------------------------
+31. Reflect:
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try using it to open programs that I usually have to navigate to through multiple folders or sites
+------------------------------------------------------------------------
+
+END
+
