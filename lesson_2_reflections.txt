@@ -1,27 +1,30 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository git creates a file for it that recognizes it as 
 a git repository and you can work on it using git bash after that.
 ----------------------------------------------------------------------------------
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is different from the working directory and the repository in the
 way that it is not set in stone and can be changed at anytime until it has been 
 commited or reset.
 -----------------------------------------------------------------------------------
 
-How can you use the staging area to make sure you have one commit per logical change?
+3. How can you use the staging area to make sure you have one commit per logical change?
 
 You can add only 1 change per commit rather than adding all changes into one commit.
 -----------------------------------------------------------------------------------
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-How do the diagrams help you visualize the branch structure?
+Branches can be helpful in keeping my history organized by letting me try out different things on my project that are not final unless i merge the branch with the master branch.
+-----------------------------------------------------------------------------------
 
-What is the result of merging two branches together? Why do we represent it in
+5. How do the diagrams help you visualize the branch structure?
+
+6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+7. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
