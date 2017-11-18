@@ -11,11 +11,12 @@ way that it is not set in stone and can be changed at anytime until it has been
 commited or reset.
 -----------------------------------------------------------------------------------
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+You can add only 1 change per commit rather than adding all changes into one commit.
+-----------------------------------------------------------------------------------
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
