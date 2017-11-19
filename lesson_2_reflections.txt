@@ -29,5 +29,8 @@ The diagrams help you see where your commits split off and where they will merge
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is a single branch that has the changes from its parent branches combined into one. We represent it in the diagram as such due to it showing us the different commit histories which shows us what was changed and what wasn't.
+-----------------------------------------------------------------------------------
+
 7. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
