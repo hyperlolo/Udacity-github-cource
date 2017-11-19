@@ -34,3 +34,5 @@ The result of merging two branches together is a single branch that has the chan
 
 7. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+It takes less time and tries to make sure all of the code of compatible line wise with each other when merging. Cons can be that sometimes it lets you merge some code that actually conflicts with other code in the file but it cant detect it so it lets it pass.
