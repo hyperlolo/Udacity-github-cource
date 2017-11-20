@@ -23,7 +23,8 @@ a clone.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+The benefit is that you can always go back and change your changes or save them to implement them later
+Another benefit could be incase the online version isn't compatible you can roll back and use the one that is.
 -----------------------------------------------------------------------------------------------------------
 
 
