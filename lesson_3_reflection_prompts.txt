@@ -38,5 +38,6 @@ or work togehter on the same computer and show each other what each of us wants 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When the changes I am making could break the original code. Branches allows me to be experimental while 
+commiting into master allows me to be quicker but riskier
 -----------------------------------------------------------------------------------------------------------
