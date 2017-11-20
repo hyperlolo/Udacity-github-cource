@@ -9,7 +9,7 @@ automatically stay up-to-date with your remote repository?
 
 In case I change my mind and or want to add or remove extra stuff and not have it be
 randomly altered while I am not working on it.
-
+-----------------------------------------------------------------------------------------------------------
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
