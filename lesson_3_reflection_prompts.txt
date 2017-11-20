@@ -31,7 +31,8 @@ Another benefit could be incase the online version isn't compatible you can roll
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+To collaborate without using github, we would need to sit by each other
+or work togehter on the same computer and show each other what each of us wants in the code. It would be easier to use github as we can work seperate and later come together to fix a few issues in the merge conflict. It would be harder to work together in person
 -----------------------------------------------------------------------------------------------------------
 
 When would you want to make changes in a separate branch rather than directly in
